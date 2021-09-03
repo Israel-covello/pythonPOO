@@ -20,3 +20,4 @@ cubo = objCubo.calcula_cubo()  # --> O operador ponto "." serve para invocar o m
 # passar o metodo desejado. Ficar atento se tiver que passar algum parametro para o metododo.
 
 print(cubo)
+ 
